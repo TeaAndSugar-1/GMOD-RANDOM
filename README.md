@@ -1,2 +1,2 @@
 # GMOD-RANDOM
-This will a addon which i will develop over time 
+This is a GMOD addon which will as cvommon sense will be entirely LUA 
